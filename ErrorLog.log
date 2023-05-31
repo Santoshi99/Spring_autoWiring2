@@ -1,0 +1,82 @@
+21-Jul-2020 18:38:23 ERROR - Validator.INVALID_POLICY_NAME
+com.infy.exception.InsuranceException: Validator.INVALID_POLICY_NAME
+	at com.infy.validator.Validator.validate(Validator.java:14) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:39:18 ERROR - Validator.INVALID_POLICY_NAME
+com.infy.exception.InsuranceException: Validator.INVALID_POLICY_NAME
+	at com.infy.validator.Validator.validate(Validator.java:14) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:39:35 ERROR - Validator.INVALID_POLICY_NAME
+com.infy.exception.InsuranceException: Validator.INVALID_POLICY_NAME
+	at com.infy.validator.Validator.validate(Validator.java:14) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:39:56 ERROR - Validator.INVALID_POLICY_TYPE
+com.infy.exception.InsuranceException: Validator.INVALID_POLICY_TYPE
+	at com.infy.validator.Validator.validate(Validator.java:18) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:40:12 ERROR - Validator.INVALID_PREMIUM
+com.infy.exception.InsuranceException: Validator.INVALID_PREMIUM
+	at com.infy.validator.Validator.validate(Validator.java:21) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:40:26 ERROR - Validator.INVALID_TENURE
+com.infy.exception.InsuranceException: Validator.INVALID_TENURE
+	at com.infy.validator.Validator.validate(Validator.java:24) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:40:53 ERROR - Validator.INVALID_DOB
+com.infy.exception.InsuranceException: Validator.INVALID_DOB
+	at com.infy.validator.Validator.validate(Validator.java:27) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:41:21 ERROR - Validator.INVALID_POLICY_NUMBER
+com.infy.exception.InsuranceException: Validator.INVALID_POLICY_NUMBER
+	at com.infy.validator.Validator.validate(Validator.java:31) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:41:38 ERROR - Validator.INVALID_HOLDER_NAME
+com.infy.exception.InsuranceException: Validator.INVALID_HOLDER_NAME
+	at com.infy.validator.Validator.validate(Validator.java:35) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:27) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+21-Jul-2020 18:42:04 ERROR - Service.NO_RECORD
+com.infy.exception.InsuranceException: Service.NO_RECORD
+	at com.infy.service.InsuranceServiceImpl.getReport(InsuranceServiceImpl.java:65) [classes/:?]
+	at com.infy.ui.UserInterface.generateReport(UserInterface.java:60) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:25) [classes/:?]
+21-Jul-2020 18:43:01 ERROR - Service.NO_RECORD
+com.infy.exception.InsuranceException: Service.NO_RECORD
+	at com.infy.service.InsuranceServiceImpl.getReport(InsuranceServiceImpl.java:65) [classes/:?]
+	at com.infy.ui.UserInterface.generateReport(UserInterface.java:60) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:25) [classes/:?]
+01-Jun-2023 00:04:39 ERROR - Validator.INVALID_POLICY_NUMBER
+com.infy.exception.InsuranceException: Validator.INVALID_POLICY_NUMBER
+	at com.infy.validator.Validator.validate(Validator.java:14) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:25) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+01-Jun-2023 00:14:37 ERROR - Validator.INVALID_HOLDER_NAME
+com.infy.exception.InsuranceException: Validator.INVALID_HOLDER_NAME
+	at com.infy.validator.Validator.validate(Validator.java:29) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:25) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
+01-Jun-2023 00:17:57 ERROR - Validator.INVALID_HOLDER_NAME
+com.infy.exception.InsuranceException: Validator.INVALID_HOLDER_NAME
+	at com.infy.validator.Validator.validate(Validator.java:29) ~[classes/:?]
+	at com.infy.service.InsuranceServiceImpl.buyPolicy(InsuranceServiceImpl.java:25) [classes/:?]
+	at com.infy.ui.UserInterface.buyPolicy(UserInterface.java:44) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:24) [classes/:?]
